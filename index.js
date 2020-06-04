@@ -6,3 +6,5 @@ happyHolidaysTo(John);
 
 function happyCustomHolidayTo(holiday, name) { return `Happy ${holiday}, ${name}!` }
 happyCustomHolidayTo(Hanukka, Matt);
+
+function holidayCountdown()
